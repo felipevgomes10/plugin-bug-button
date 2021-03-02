@@ -1,0 +1,13 @@
+[
+  {
+    "name": "plugin-twilio-bug-button",
+    "version": "0.0.0",
+    "class": "TwilioBugButtonPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-twilio-bug-button.js"
+  }
+]
